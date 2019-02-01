@@ -11,7 +11,7 @@ import org.spongepowered.asm.mixin.Mixin;
 
 @Mixin(RenderArrow.class)
 public abstract class MixinRenderArrow extends Render {
-    protected MixinRenderArrow(RenderManager renderManager) {
+    public MixinRenderArrow(RenderManager renderManager) {
         super(renderManager);
     }
 
