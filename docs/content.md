@@ -70,6 +70,8 @@ In the **Replay Viewer**, you can also **rename**, **delete** and **upload** you
 While in the Replay, you can freely move around using the movement keys (`WASD, Space, Shift` by default).
 You can move through block similar to Spectator Mode.
 
+To click on the on-screen buttons, press `T`. This enables the mouse. To go back to regular movement, press `Escape`.
+
 Using the **Mouse Wheel**, you can modify your flying speed. Scrolling **up** causes you to fly faster, while scrolling **down** slows you down.
 
 If you prefer the camera to be controlled similar to vanilla Creative Mode, you can change that in the **Replay Settings**.
@@ -349,6 +351,8 @@ There are **7 Encoding Presets** you can choose from:
 ### Advanced Settings [advanced]
 ![](img/rendersettings-advanced.jpg)
 The **Advanced Render Settings**
+
+The Advanced Render Settings are available when you scroll down in the [Render](#replaying-render) section.
 
 #### Render Nametags [nametags]
 If you don't want to see Entity's Nametags in the rendered video, simply un-tick the checkbox. Hidden Nametags also include Nametags of **Armor Stands** and **Mobs**, **not only Players**!
